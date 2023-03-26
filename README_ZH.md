@@ -14,7 +14,7 @@
 | 昵称 | 简介 | 社交网络 |
 |------|------|----------|
 | BadVortex恶漩 | B站up主，她在使用墨干讲解BabyRudin的习题 | [Bilibili](https://space.bilibili.com/32125090) |
-| Yiqi Xu | 数学系博士，墨干编辑器资深用户 | [Github](https://github.com/YiqiXu)/[Gitee](https://gitee.com/xuyiqi1)
+| Yiqi Xu | 墨干编辑器资深用户 | [Github](https://github.com/YiqiXu)/[Gitee](https://gitee.com/xuyiqi1)
 | jadelight | 数学系教授，他在使用墨干编辑器授课 | [Gitee](https://gitee.com/jadelight) |
 | Proctor | 律师，他是墨干编辑器资深用户，也是墨客实验室的法律顾问 | |
 | 徐杰 | 世界语者、多语者、译者，墨客实验室全球化语言顾问 | [Github](https://github.com/xujie8410) |
