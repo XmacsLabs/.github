@@ -16,8 +16,10 @@
 | BadVortex恶漩 | B站up主，她在使用墨干讲解BabyRudin的习题 | [Bilibili](https://space.bilibili.com/32125090) |
 | Yiqi Xu | 数学系博士，墨干编辑器资深用户 | [Github](https://github.com/YiqiXu)/[Gitee](https://gitee.com/xuyiqi1)
 | jadelight | 数学系教授，他在使用墨干编辑器授课 | [Gitee](https://gitee.com/jadelight) |
+| Proctor | 律师，他是墨干编辑器资深用户，也是墨客实验室的法律顾问 | |
 | 沈浪熊猫儿 | 墨客实验室创始人，墨干编辑器作者，不是LaTeX用户。他是数据工程师，是[理解机](https://gitee.com/komprenilo/liga)作者之一，译有《Scala实用指南》。| [Bilibili](https://space.bilibili.com/28058658)/[Github](https://github.com/darcy-shen)/[Gitee](https://gitee.com/darcyshen) |
 | PikachuHy | 墨干编辑器开发者 | [Github](github.com/PikachuHy) |
 | jingkaimori | 墨干编辑器开发者 | [Github](https://github.com/jingkaimori)/[Gitee](https://gitee.com/jingkaimori) |
 | Yufeng Shen | 墨干编辑器开发者 | [Github](https://github.com/Yufeng-shen) |
+
 
