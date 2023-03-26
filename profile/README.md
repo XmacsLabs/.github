@@ -1,6 +1,6 @@
 # XmacsLabs
 
-XmacsLabs is a non-profit organization on earth. We collaberate to create tools for everyone to enjoy exploring science and technology!
+XmacsLabs is a non-profit organization on earth. We collaberate to create tools for everyone to **enjoy exploring science and technology**!
 
 
 | Project | What | Status |
