@@ -1,3 +1,5 @@
+English | [简体中文：墨客实验室](README_ZH.md)
+
 # XmacsLabs
 
 XmacsLabs is a non-profit organization on earth. We collaberate to create tools for everyone to **enjoy exploring science and technology**!
