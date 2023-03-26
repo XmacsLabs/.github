@@ -1,6 +1,8 @@
 [English: XmacsLabs](README_EN.md) | 简体中文
 
 # 墨客实验室
+![](profile/XmacsLabs.png)
+
 墨客实验室是一个地球上的非营利组织。我们以协作的方式创造工具，让所有人都能**享受探索科学与技术的乐趣**。
 
 | 项目 | 描述 | 状态 |
