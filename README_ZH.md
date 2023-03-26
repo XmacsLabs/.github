@@ -6,7 +6,18 @@
 | 项目 | 描述 | 状态 |
 |---------|------|--------|
 | [墨干编辑器](https://mogan.app) | 基于GNU TeXmacs的结构化编辑器 | 稳定 |
-| 墨干编辑器 | 一门结构化的编程语言 | 设计中  |
+| 墨干语言 | 一门结构化的编程语言 | 设计中  |
 | 墨客星球 | 墨客社区的公共文档 | Beta |
 | 墨者百科 | 科技领域的百科 | Alpha |
+
+## 我们是谁？
+| 昵称 | 简介 | 社交网络 |
+|------|------|----------|
+| BadVortex恶漩 | B站up主，她在使用墨干讲解BabyRudin的习题 | [Bilibili](https://space.bilibili.com/32125090) |
+| Yiqi Xu | 数学系博士，墨干编辑器资深用户 | [Github](https://github.com/YiqiXu)/[Gitee](https://gitee.com/xuyiqi1)
+| jadelight | 数学系教授，他在使用墨干授课 | [gitee](https://gitee.com/jadelight) |
+| 沈浪熊猫儿 | 墨客实验室创始人，墨干编辑器作者，不是LaTeX用户。他是数据工程师，是[理解机](https://gitee.com/komprenilo/liga)作者之一。| [Bilibili](https://space.bilibili.com/28058658)/[Github](https://github.com/darcy-shen)/[gitee](https://gitee.com/darcyshen) |
+| PikachuHy | 墨干编辑器开发者 | [Github](github.com/PikachuHy) |
+| jingkaimori | 墨干编辑器开发者 | [Github](https://github.com/jingkaimori)/[Gitee](https://gitee.com/jingkaimori) |
+| Yufeng Shen | 墨干编辑器开发者 | [Github](https://github.com/Yufeng-shen) |
 
