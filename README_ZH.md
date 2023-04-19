@@ -19,6 +19,14 @@
 | [《墨子》](https://gitee.com/XmacsLabs/mozi) | 简体中文 | 制作中 | |
 | [《交互式SICP》](https://gitee.com/XmacsLabs/interactive-sicp) | 英语 | 制作中，前两章可阅读 | |
 
+## 我们的项目在哪里?
+我们正在等待[Forgejo](https://forgejo.org/)的[联邦功能](https://codeberg.org/forgejo/forgejo/issues/59)。
+
++ 中国科学技术大学Linux用户协会托管的Gitlab实例: https://git.lug.ustc.edu.cn/XmacsLabs
++ Codeberg: https://codeberg.org/XmacsLabs/
++ Gitee: https://gitee.com/XmacsLabs
++ Github: https://github.com/XmacsLabs
+
 ## 我们是谁？
 | 昵称 | 简介 | 社交网络 |
 |------|------|----------|

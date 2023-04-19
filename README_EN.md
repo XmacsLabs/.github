@@ -20,6 +20,14 @@ XmacsLabs is a non-profit organization on earth. We collaberate to create tools 
 | [《Mozi》](https://gitee.com/XmacsLabs/mozi) | Simplified Chinese  | WIP | |
 | [《Interactive SICP》](https://gitee.com/XmacsLabs/interactive-sicp) | English | First two chapters available |  |
 
+## Where are the projects?
+We are waiting for the [federation feature](https://codeberg.org/forgejo/forgejo/issues/59) of [Forgejo](https://forgejo.org/).
+
++ Gitlab instance hosted by USTC LUG: https://git.lug.ustc.edu.cn/XmacsLabs
++ Codeberg: https://codeberg.org/XmacsLabs
++ Gitee: https://gitee.com/XmacsLabs
++ Github: https://github.com/XmacsLabs
+
 ## Who are we?
 | Name | Intro | Social Media |
 |------|------|----------|
